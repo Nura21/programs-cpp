@@ -1,3 +1,6 @@
+/*
+	Code by cahyaseptia11 - Github User
+*/
 #include<iostream>
 #include<math.h>
 #include<iomanip>
